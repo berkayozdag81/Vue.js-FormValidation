@@ -40,7 +40,6 @@
                 {{$v.age.$params.between.max}}</span>
             </div>
           </div>
-          <label>aaa para gitti laa</label>
         </div>
       </form>
     </div>
